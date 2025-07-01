@@ -1,0 +1,8 @@
+Transaction Date & Time: Help Track frequency and timing of transaction
+Transaction value: Enables detection of usually high spending patterns
+IP Address: Used to verify if the transaction originated from a known or trusted location
+Shipping Address: Helps identify unexpected delivery changes like PO Box or warehouse
+Product category and unit purchased : can reveal bulk orders or unusual product types inconsistent with past behavior
+Inconsistent Date Formats: Some dates are in DD-MM-YY others in DD month YYYY and some in YYYY-MM-DD which could cause sorting or filtering problems
+IP Address Format Errors -  Inconsistent formatting and positioning (eg. "davidg" and "1.58.167.2" appears reversed in one row).
+Missing or In corrected values: Some address are just listed as in-store which makes geographic analysis or anomaly detection incomplete.
