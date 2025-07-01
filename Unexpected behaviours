@@ -1,0 +1,3 @@
+Refer to the data table there is anomalies or unexpected behaviors, that would lead you to believe the transaction may be suspect. 
+High Frequency , High Value orders in quick succession: User johnp has 3 high value transaction within the short time 03 june 2020 over $9000 total in under 20 minutes
+IP/shipping mismatch : user ellend's transaction on 02 July 2020 for $4895 is shipped to a new P.O Box (5401) from a completely new IP, which deviates from their previous small local purchases
